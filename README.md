@@ -3,7 +3,7 @@ User can encrypt files with the help of an key. This is a symmetric encryption, 
 
 Here the user can enter the answer key, with the help of the key any type of file gets encrypted.
 
-#Usage:
+## Usage:
 - To encrypt the file, make sure the file is in the same directory as the source code and enter the filename in the program and a key. 
 - This will create a new file with an extension ".sec".
 
