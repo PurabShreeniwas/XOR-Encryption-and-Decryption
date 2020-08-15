@@ -9,3 +9,6 @@ Here the user can enter the answer key, with the help of the key any type of fil
 
 - To decrypt the file, enter the filename of the encrypted file (with the extension ".sec") and the same key which was used to encrypt the file. 
 - If the correct key is entered, the a new decrypted file is created again with the extension ".sec" (The encryption and decryption algorithm are same).
+
+### Authors:
+[Purab Shreeniwas](https://github.com/PurabShreeniwas)
